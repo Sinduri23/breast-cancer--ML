@@ -55,18 +55,11 @@ The dataset was downloaded and parsed using [`GEOparse`](https://github.com/guma
 
 ##  Conclusion
 
-This project demonstrates the feasibility of using gene expression profiles to predict relapse in breast cancer patients. While model performance was promising for non-relapse classification, improvements are needed in relapse detection — potentially through additional data, class balancing (e.g. SMOTE), or model ensembling.
-
-The pipeline is modular, and can be adapted to predict other outcomes like death (`DEATH_BC`) or subtype classification.
+This project demonstrates the feasibility of using gene expression profiles to predict relapse in breast cancer patients. While model performance was promising for non-relapse classification, improvements are needed in relapse detection 
 
 
 
-##  Contents
 
-- `disease_classification.ipynb` — Main notebook
-- `report.pdf` — Summary report of approach and findings
-- `requirements.txt` — Dependencies
-- `images/` — PCA plot, heatmaps, confusion matrix, gene importance
 
 
 
