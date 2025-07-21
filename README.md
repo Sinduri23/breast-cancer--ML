@@ -21,7 +21,7 @@ The dataset was downloaded and parsed using [`GEOparse`](https://github.com/guma
 
 
 
-## 🛠 Preprocessing Steps
+##  Preprocessing Steps
 
 1. **Gene Filtering**: Genes missing in more than 50% of patients were removed.
 2. **Imputation**: Remaining missing values were filled using mean imputation.
@@ -39,7 +39,7 @@ The dataset was downloaded and parsed using [`GEOparse`](https://github.com/guma
 - Evaluation metrics included accuracy, F1-score, recall, and ROC-AUC.
 
 
-## 📊 Results & Observations
+##  Results & Observations
 
 | Metric           | Result        |
 
