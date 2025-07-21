@@ -70,7 +70,7 @@ The pipeline is modular, and can be adapted to predict other outcomes like death
 
 
 
-## ⚖ Ethical Note
+##  Ethical Note
 
 - All data used is publicly available and de-identified.
 - The model is educational and not intended for clinical use.
